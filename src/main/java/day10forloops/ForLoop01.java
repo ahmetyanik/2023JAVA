@@ -17,5 +17,25 @@ public class ForLoop01 {
 
         System.out.println(sum);
 
+        String word = "anna";
+
+        String newWord = "";
+
+
+        for(int i = 0;i< word.length(); i++){
+
+            newWord += word.charAt(word.length() -1 - i);
+
+        }
+
+        if(word.equals(newWord)){
+            System.out.println(word + " is Palindrome...");
+        }else{
+            System.out.println(word + " is not Palindrome!");
+        }
+
+
     }
+
+
 }
