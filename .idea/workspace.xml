@@ -52,13 +52,26 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Loops01">
+  <component name="RunManager" selected="Application.ForLoop01">
     <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day08ternary_switch.Deneme" />
       <module name="TESTER_ENGLISH" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day08ternary_switch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10forloops.ForLoop01" />
+      <module name="TESTER_ENGLISH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day10forloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,19 +94,6 @@
     </configuration>
     <configuration name="NestedTernary01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day08ternary_switch.NestedTernary01" />
-      <module name="TESTER_ENGLISH" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day08ternary_switch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Switch03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day08ternary_switch.Switch03" />
       <module name="TESTER_ENGLISH" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoop01" />
         <item itemvalue="Application.Loops01" />
         <item itemvalue="Application.day09_loops.Deneme" />
         <item itemvalue="Application.Switch04" />
         <item itemvalue="Application.Deneme" />
-        <item itemvalue="Application.Switch03" />
       </list>
     </recent_temporary>
   </component>
