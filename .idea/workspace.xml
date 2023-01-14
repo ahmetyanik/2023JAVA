@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="370bd463-1757-4ccf-b6f8-1958bf14eebb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day10forloops/ForLoop01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day10forloops/ForLoop01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +52,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ForLoop01">
-    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day08ternary_switch.Deneme" />
+  <component name="RunManager" selected="Application.ForLoop02">
+    <configuration name="ForLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10forloops.ForLoop01" />
       <module name="TESTER_ENGLISH" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day08ternary_switch.*" />
+          <option name="PATTERN" value="day10forloops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +66,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10forloops.ForLoop01" />
+    <configuration name="ForLoop02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10forloops.ForLoop02" />
       <module name="TESTER_ENGLISH" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ForLoop02" />
         <item itemvalue="Application.ForLoop01" />
         <item itemvalue="Application.Loops01" />
         <item itemvalue="Application.day09_loops.Deneme" />
         <item itemvalue="Application.Switch04" />
-        <item itemvalue="Application.Deneme" />
       </list>
     </recent_temporary>
   </component>
