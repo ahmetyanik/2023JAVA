@@ -52,7 +52,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exams01">
+  <component name="RunManager" selected="Application.Exams02">
     <configuration name="Array01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day13multidimensionalarrays.Array01" />
       <module name="TESTER_ENGLISH" />
@@ -92,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoop02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10forloops.ForLoop02" />
+    <configuration name="Exams02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Group01.Exams02" />
       <module name="TESTER_ENGLISH" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10forloops.*" />
+          <option name="PATTERN" value="Group01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exams02" />
         <item itemvalue="Application.Exams01" />
         <item itemvalue="Application.Array01" />
         <item itemvalue="Application.Arrays01" />
         <item itemvalue="Application.NestedForLoop" />
-        <item itemvalue="Application.ForLoop02" />
       </list>
     </recent_temporary>
   </component>
