@@ -40,19 +40,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/ahmet/IdeaProjects/JAVA",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ahmet/IdeaProjects/JAVA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Exams02">
+}</component>
+  <component name="RunManager" selected="Application.Deneme">
     <configuration name="Array01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day13multidimensionalarrays.Array01" />
       <module name="TESTER_ENGLISH" />
@@ -72,6 +72,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day12_arrays_foreachlopp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Group01.Deneme" />
+      <module name="TESTER_ENGLISH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Group01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,19 +118,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10forloops.NestedForLoop" />
-      <module name="TESTER_ENGLISH" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day10forloops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="NestedTernary01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day08ternary_switch.NestedTernary01" />
       <module name="TESTER_ENGLISH" />
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Deneme" />
         <item itemvalue="Application.Exams02" />
         <item itemvalue="Application.Exams01" />
         <item itemvalue="Application.Array01" />
         <item itemvalue="Application.Arrays01" />
-        <item itemvalue="Application.NestedForLoop" />
       </list>
     </recent_temporary>
   </component>
