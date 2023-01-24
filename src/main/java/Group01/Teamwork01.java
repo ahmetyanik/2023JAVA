@@ -48,5 +48,36 @@ public class Teamwork01 {
         System.out.println("Smallest positive is "+ array[index] + ", greatest negative is " + array[index-1]);
 
 
+        // Find the elements whose length is the smallest in a String array
+        //Example: ( Kemal, Jonathan, Mark, Angie, Veli ) ==> Output is Mark, Veli
+
+        String lastArray[] = {"c", "Kemal","ahmet","a", "Jonathan", "Mark", "Angie","b", "Veli","Ali"};
+
+        System.out.println(Arrays.toString(lastArray));
+
+        int minElementIndex = 0;
+
+        for(int i=0;i<lastArray.length;i++){
+
+            if(lastArray[i].length() < lastArray[minElementIndex].length()){
+
+                minElementIndex = i;
+            }
+
+        }
+
+        for(int i=0;i< lastArray.length;i++){
+
+            if(lastArray[i].length() == lastArray[minElementIndex].length()){
+
+                System.out.println("Output is " + lastArray[i]);
+            }
+        }
+
+
+
+
+
+
     }
 }
