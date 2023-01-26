@@ -32,18 +32,10 @@ public class Teamwork02 {
                 salaries.set(i, salaries.get(i) *1.1);
 
             }else{
-
                 salaries.remove(i);
                 i--;
-
             }
-
-
         }
-
-
-
         System.out.println(salaries);
-
     }
 }
