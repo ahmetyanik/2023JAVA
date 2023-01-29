@@ -52,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Teamwork010">
+  <component name="RunManager" selected="Application.Teamwork011">
     <configuration name="NestedTernary01" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day08ternary_switch.NestedTernary01" />
       <module name="TESTER_ENGLISH" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Teamwork06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Group01.Teamwork06" />
+    <configuration name="Teamwork011" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Group01.Teamwork011" />
       <module name="TESTER_ENGLISH" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Teamwork011" />
         <item itemvalue="Application.Teamwork010" />
         <item itemvalue="Application.Teamwork09" />
         <item itemvalue="Application.Teamwork08" />
         <item itemvalue="Application.Teamwork07" />
-        <item itemvalue="Application.Teamwork06" />
       </list>
     </recent_temporary>
   </component>
