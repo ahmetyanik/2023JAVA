@@ -21,6 +21,7 @@ public class Ternary {
 
         String sonuc = result > 0 ? result + "" : "I can not make this operation!";
 
+
         System.out.println(sonuc);
 
 
